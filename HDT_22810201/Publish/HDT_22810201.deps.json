@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HDT_22810201/1.0.0": {
+        "dependencies": {
+          "HDT_22810201_Entities": "1.0.0",
+          "HDT_22810201_XuLyNghiepVu": "1.0.0"
+        },
+        "runtime": {
+          "HDT_22810201.dll": {}
+        }
+      },
+      "HDT_22810201_Entities/1.0.0": {
+        "runtime": {
+          "HDT_22810201_Entities.dll": {}
+        }
+      },
+      "HDT_22810201_XuLyLuuTru/1.0.0": {
+        "dependencies": {
+          "HDT_22810201_Entities": "1.0.0"
+        },
+        "runtime": {
+          "HDT_22810201_XuLyLuuTru.dll": {}
+        }
+      },
+      "HDT_22810201_XuLyNghiepVu/1.0.0": {
+        "dependencies": {
+          "HDT_22810201_Entities": "1.0.0",
+          "HDT_22810201_XuLyLuuTru": "1.0.0"
+        },
+        "runtime": {
+          "HDT_22810201_XuLyNghiepVu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HDT_22810201/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HDT_22810201_Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HDT_22810201_XuLyLuuTru/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HDT_22810201_XuLyNghiepVu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
